@@ -1,0 +1,8 @@
+node_modules
+build
+config
+docs
+src
+index.html
+.DS_Store
+.*
