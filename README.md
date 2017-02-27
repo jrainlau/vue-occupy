@@ -8,7 +8,7 @@ Using `yarn` or `npm` to install `vue-occupy`:
 # yarn
 yarn add vue-occupy
 
-#npm
+# npm
 npm install vue-occupy
 ```
 
