@@ -64,5 +64,23 @@ export default {
 
 Before the `fetch` method has requested the result data, the `div` with `v-occupy="{ data: content, config }"` would be occupying by a rectangle color lump. Once the data was loaded, the attribute `content` would be updated and be rendered into the html.
 
+**Note**: the default configuration of `vue-occupy` looks like below:
+```
+{
+  width: 100%; 
+  height: 100%; 
+  background: #eee
+}
+``` 
+And the note with `v-occupy` will be like this:
+
+```
+<div v-occupy="{ data: content, config }">
+  <div style="width: 100%; height: 100%; background: #eee;></div>
+</div>
+```
+
+Which means your **must** set the exactly `width` and `height` attribute in the note with `v-occupy`, or overwrite the default configuration by binding `config` attribute.
+
 # Lisence
 MIT
