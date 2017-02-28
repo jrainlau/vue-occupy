@@ -1,4 +1,4 @@
-# VueOccupy
+# Vue-Occupy
 A Vue directive for occupying content places before the data has been loaded.
 
 # Install

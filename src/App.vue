@@ -24,7 +24,7 @@ export default {
     setTimeout(() => {
       this.title = 'Vue-Occupy'
       this.content = 'A Vue directive for occupying content places before the data has been loaded.'
-      this.gitUrl = 'For me on Github!'
+      this.gitUrl = 'Fork me on Github!'
     }, 1500)
   }
 }
