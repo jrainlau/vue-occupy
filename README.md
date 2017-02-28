@@ -1,6 +1,8 @@
 # Vue-Occupy
 A Vue directive for occupying content places before the data has been loaded.
 
+It's good for user experiment improving.
+
 # Install
 Using `yarn` or `npm` to install `vue-occupy`:
 
