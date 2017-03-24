@@ -1,6 +1,6 @@
 {
   "name": "vue-occupy",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "A Vue directive for occupying content places before the data was loaded.",
   "main": "dist/index.js",
   "scripts": {
