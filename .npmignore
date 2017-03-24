@@ -4,5 +4,6 @@ config
 docs
 src
 index.html
+yarn.lock
 .DS_Store
 .*
