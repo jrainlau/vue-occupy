@@ -80,7 +80,7 @@ And the note with `v-occupy` will be like this:
 </div>
 ```
 
-Which means your **must** set the exactly `width` and `height` attribute in the note with `v-occupy`, or overwrite the default configuration by binding `config` attribute. What's more, attributes like `marginTop` or `paddingRight` are illegle, you should write in `'margin-top': '10px'` or `'padding-right': '10px'` instead.
+Which means your **must** set the exactly `width` and `height` attribute in the note with `v-occupy`, or overwrite the default configuration by binding `config` attribute. What's more, attributes like `marginTop` or `paddingRight` are illegal, you should write in `'margin-top': '10px'` or `'padding-right': '10px'` instead.
 
 # Lisence
 MIT
