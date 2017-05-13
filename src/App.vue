@@ -2,7 +2,7 @@
   <div id="app">
     <h1 v-occupy="{ data: title }"></h1>
     <p v-occupy="{ data: content1 }"></p>
-    <p v-occupy="{ data: content2 }"></p>
+    <p v-occupy="{ data: content2, config }"></p>
     <a href="https://github.com/jrainlau/vue-occupy" v-occupy="{ data: gitUrl }"></a>
   </div>
 </template>
